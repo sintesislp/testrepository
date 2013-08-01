@@ -1,4 +1,3 @@
-testrepository
-==============
-
-Repositorio de prueba para test de git hub y su issue tracker
+Team Developer
+José Teran
+Jorge Siles
